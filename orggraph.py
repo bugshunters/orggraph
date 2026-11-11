@@ -60,7 +60,7 @@ except ImportError:
 
 
 
-VERSION = "2 , By https://x.com/maxennce"
+VERSION = "2 , By https://x.com/bugshunters"
 TAGLINE = "Passive OSINT Intelligence & Correlation Framework"
 SUBTITLE = "[ passive intelligence • correlation • graph analysis ]"
 
