@@ -193,7 +193,7 @@ python3 orggraph.py explain ENTITY_ID
 Clonez le dépôt :
 
 ```bash
-git clone https://github.com/maxennce/orggraph
+git clone https://github.com/bugshunters/orggraph
 cd orggraph
 ```
 
@@ -548,7 +548,7 @@ L'utilisateur reste responsable du respect des lois applicables, des conditions 
 
 ## Auteur
 
-Créé par **@maxennce**
+Créé par **@bugshunters**
 
 X / Twitter :
 
