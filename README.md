@@ -553,5 +553,5 @@ Créé par **@bugshunters**
 X / Twitter :
 
 ```text
-https://x.com/maxennce
+https://x.com/bugshunters
 ```
